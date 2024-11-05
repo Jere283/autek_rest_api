@@ -2,8 +2,8 @@
 package main
 
 import (
-	"autek/config"
-	"autek/database"
+	"github.com/Jere283/autek_rest_api/config"
+	"github.com/Jere283/autek_rest_api/database"
 
 	"github.com/gofiber/fiber/v2"
 )
