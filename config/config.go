@@ -13,3 +13,5 @@ func LoadEnv() {
 
 	}
 }
+
+const Secret = "test"
